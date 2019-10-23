@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "811133664437",
+    "firebase_url": "https://tpdmu3ejercicio1-7307b.firebaseio.com",
+    "project_id": "tpdmu3ejercicio1-7307b",
+    "storage_bucket": "tpdmu3ejercicio1-7307b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811133664437:android:a0e92455688f02a20d92fc",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_ejercicio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811133664437-j5ufsb08635ijmhuqgnm11v706iqbb0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiumhNj4K9Q5M49ax_fIOjonx5MlLk9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811133664437-j5ufsb08635ijmhuqgnm11v706iqbb0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811133664437:android:7a6042b9bb1e5bda0d92fc",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_ejercicio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811133664437-i1kvbo1rfhons7opf92p5hv0u1fivc36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.tpdm_u3_ejercicio2",
+            "certificate_hash": "ad466f44026362de6d62e23294893842e2c69a2d"
+          }
+        },
+        {
+          "client_id": "811133664437-j5ufsb08635ijmhuqgnm11v706iqbb0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiumhNj4K9Q5M49ax_fIOjonx5MlLk9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811133664437-j5ufsb08635ijmhuqgnm11v706iqbb0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811133664437:android:60d56e830cc4524e0d92fc",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_practica1_15401071"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811133664437-48orao6f6ek8hc1bg8ble9g80c4k1cmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.tpdm_u3_practica1_15401071",
+            "certificate_hash": "ad466f44026362de6d62e23294893842e2c69a2d"
+          }
+        },
+        {
+          "client_id": "811133664437-j5ufsb08635ijmhuqgnm11v706iqbb0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiumhNj4K9Q5M49ax_fIOjonx5MlLk9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811133664437-j5ufsb08635ijmhuqgnm11v706iqbb0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
